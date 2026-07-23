@@ -24,7 +24,7 @@
 
 ## About
 
-Junior Go backend developer building practical services with PostgreSQL, REST APIs, concurrency, and external integrations.
+I build practical backend services in Go with PostgreSQL, REST APIs, concurrency, and external integrations.
 
 My projects focus on reliability: automated tests, explicit error handling, graceful shutdown, metrics, structured logging, and containerized environments.
 
