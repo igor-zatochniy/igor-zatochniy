@@ -4,7 +4,7 @@
 
 ### Junior Go Backend Developer
 
-Go · PostgreSQL · SQL · REST API · Docker · RabbitMQ
+**Go · PostgreSQL · REST APIs · Concurrency · Docker · Testing**
 
 <p>
   <a href="https://igor-zatochniy.github.io/portfolio/">
