@@ -39,13 +39,15 @@
 
 ## Core Skills
 
-**Backend:** `Go` · `REST API` · `net/http` · `context.Context` · `Concurrency` · `Worker Pool` · `Rate Limiting`
+**Core Backend:** `Go` · `net/http` · `REST APIs` · `context.Context` · `Concurrency` · `PostgreSQL` · `SQL`
 
-**Data & Infra:** `PostgreSQL` · `SQL` · `RabbitMQ` · `Docker` · `Kubernetes` · `Linux`
+**Engineering Quality:** `Unit Testing` · `Integration Testing` · `Race Detector` · `Structured Logging` · `Graceful Shutdown`
 
-**Quality:** `Testing` · `Testcontainers` · `Fuzzing` · `OpenAPI` · `Prometheus` · `Structured Logging` · `GitHub Actions`
+## Technologies Used
 
-**Tools:** `Git` · `GitHub` · `CLI` · `Automation`
+**Applied in Projects:** `RabbitMQ` · `Kubernetes` · `Prometheus` · `OpenAPI` · `Testcontainers` · `Fuzzing` · `GitHub Actions`
+
+**Tools:** `Git` · `Docker` · `Linux` · `CLI`
 
 ## Product Background
 
