@@ -26,7 +26,7 @@ Go · PostgreSQL · SQL · REST API · Docker · RabbitMQ
 
 Розробляю backend-сервіси на Go з конкурентною обробкою, інтеграціями із зовнішніми API, автоматизованими тестами, метриками та структурованими логами.
 
-Фокусуюсь на практичних задачах: від REST API та Telegram-ботів до worker pool, фонових задач, PostgreSQL, черг, Docker-оточення та production-friendly інструментів для моніторингу.
+Фокусуюсь на практичних завданнях: від REST API та Telegram-ботів до worker pool, фонових завдань, PostgreSQL, черг, Docker-оточення та production-friendly інструментів для моніторингу.
 
 ## Featured Projects
 
