@@ -33,8 +33,8 @@ Go · PostgreSQL · SQL · REST API · Docker · RabbitMQ
 | Project | What It Does | Stack | Links |
 |---|---|---|---|
 | **CryptoPulse Telegram Bot** | Telegram-сервіс для моніторингу цін на криптовалюти та запланованих сповіщень. | Go, PostgreSQL, Telegram API, Docker, Prometheus, Testcontainers | [Repo](https://github.com/igor-zatochniy/cryptopulse-telegram-bot) · [Bot](https://t.me/btc_eth_usdt_bot) |
-| **Site Checker** | Розподілений backend-сервіс моніторингу сайтів із REST API, PostgreSQL, RabbitMQ-воркерами та обробкою інцидентів. | Go, PostgreSQL, RabbitMQ, REST API, Docker, Kubernetes | [Repo](https://github.com/igor-zatochniy/site-checker) · [API Docs](https://igor-zatochniy.github.io/site-checker/) |
 | **SEO Auditor** | Паралельний сервіс технічного SEO-аудиту з worker pool, rate limiting, підтримкою `robots.txt` і SSRF-захистом. | Go, PostgreSQL, Docker, Worker Pool, Rate Limiting, HTML Parsing | [Repo](https://github.com/igor-zatochniy/seo-auditor) · [Example](https://github.com/igor-zatochniy/seo-auditor/blob/main/docs/example-result.md) |
+| **Site Checker** | Розподілений backend-сервіс моніторингу сайтів із REST API, PostgreSQL, RabbitMQ-воркерами та обробкою інцидентів. | Go, PostgreSQL, RabbitMQ, REST API, Docker, Kubernetes | [Repo](https://github.com/igor-zatochniy/site-checker) · [API Docs](https://igor-zatochniy.github.io/site-checker/) |
 | **Audiobook TTS Reader** | Windows-застосунок для озвучування текстових книг із потоковою обробкою, збереженням прогресу та локальним REST/SSE API. | Go, Streaming I/O, UTF-8, REST API, SSE, Fuzzing | [Repo](https://github.com/igor-zatochniy/tts-reader) · [API](https://github.com/igor-zatochniy/tts-reader#local-rest-api) |
 
 ## Core Skills
