@@ -30,12 +30,12 @@
 
 ## Featured Projects
 
-| Project | What It Does | Stack | Links |
+| Project | Product | Engineering Highlights | Proof |
 |---|---|---|---|
-| **CryptoPulse Telegram Bot** | Telegram-сервіс для моніторингу цін на криптовалюти та запланованих сповіщень. | Go, PostgreSQL, Telegram API, Docker, Prometheus, Testcontainers | [Repo](https://github.com/igor-zatochniy/cryptopulse-telegram-bot) · [Bot](https://t.me/btc_eth_usdt_bot) |
-| **SEO Auditor** | Паралельний сервіс технічного SEO-аудиту з worker pool, rate limiting, підтримкою `robots.txt` і SSRF-захистом. | Go, PostgreSQL, Docker, Worker Pool, Rate Limiting, HTML Parsing | [Repo](https://github.com/igor-zatochniy/seo-auditor) · [Example](https://github.com/igor-zatochniy/seo-auditor/blob/main/docs/example-result.md) |
-| **Site Checker** | Розподілений backend-сервіс моніторингу сайтів із REST API, PostgreSQL, RabbitMQ-воркерами та обробкою інцидентів. | Go, PostgreSQL, RabbitMQ, REST API, Docker, Kubernetes | [Repo](https://github.com/igor-zatochniy/site-checker) · [API Docs](https://igor-zatochniy.github.io/site-checker/) |
-| **Audiobook TTS Reader** | Windows-застосунок для озвучування текстових книг із потоковою обробкою, збереженням прогресу та локальним REST/SSE API. | Go, Streaming I/O, UTF-8, REST API, SSE, Fuzzing | [Repo](https://github.com/igor-zatochniy/tts-reader) · [API](https://github.com/igor-zatochniy/tts-reader#local-rest-api) |
+| **CryptoPulse Telegram Bot** | Live cryptocurrency notification bot | Durable inbox/outbox, versioned migrations, graceful shutdown, Testcontainers integration tests | [Live Bot](https://t.me/btc_eth_usdt_bot) · [Runbook](https://github.com/igor-zatochniy/cryptopulse-telegram-bot/blob/main/docs/operations.md) · [Repository](https://github.com/igor-zatochniy/cryptopulse-telegram-bot) |
+| **SEO Auditor** | Technical SEO crawling service | Bounded worker pool, keyset pagination, RFC 9309 `robots.txt` handling, SSRF hardening | [Example Result](https://github.com/igor-zatochniy/seo-auditor/blob/main/docs/example-result.md) · [Repository](https://github.com/igor-zatochniy/seo-auditor) |
+| **Site Checker** | Website monitoring backend | Role-separated API/scheduler/workers, RabbitMQ DLQ and retries, transactional alert outbox, Kubernetes/KEDA scaling | [OpenAPI](https://github.com/igor-zatochniy/site-checker/blob/main/api/openapi.yaml) · [Demo](https://github.com/igor-zatochniy/site-checker/blob/main/docs/demo.md) · [Repository](https://github.com/igor-zatochniy/site-checker) |
+| **Audiobook TTS Reader** | Windows audiobook reader | Streaming UTF-8 chunking, token-protected local REST/SSE API, coverage-guided fuzzing, validated resumable progress | [API](https://github.com/igor-zatochniy/tts-reader#local-rest-api) · [Fuzzing](https://github.com/igor-zatochniy/tts-reader#fuzzing) · [Repository](https://github.com/igor-zatochniy/tts-reader) |
 
 ## Core Skills
 
