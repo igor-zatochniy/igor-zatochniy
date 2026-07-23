@@ -24,9 +24,11 @@
 
 ## About
 
-Розробляю backend-сервіси на Go з конкурентною обробкою, інтеграціями із зовнішніми API, автоматизованими тестами, метриками та структурованими логами.
+Junior Go backend developer building practical services with PostgreSQL, REST APIs, concurrency, and external integrations.
 
-Фокусуюсь на практичних завданнях: від REST API та Telegram-ботів до worker pool, фонових завдань, PostgreSQL, черг, Docker-оточення та production-friendly інструментів для моніторингу.
+My projects focus on reliability: automated tests, explicit error handling, graceful shutdown, metrics, structured logging, and containerized environments.
+
+I also bring eight years of digital marketing and SEO experience, which helps me connect technical decisions with real product needs.
 
 ## Featured Projects
 
@@ -48,12 +50,6 @@
 **Applied in Projects:** `RabbitMQ` · `Kubernetes` · `Prometheus` · `OpenAPI` · `Testcontainers` · `Fuzzing` · `GitHub Actions`
 
 **Tools:** `Git` · `Docker` · `Linux` · `CLI`
-
-## Product Background
-
-8 років у digital marketing сформували сильне продуктове мислення та досвід розв'язання реальних бізнес-завдань.
-
-`Product Thinking` · `Digital Marketing` · `SEO` · `Marketing Automation` · `CRM Marketing`
 
 ## Contacts
 
