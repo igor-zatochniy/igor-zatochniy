@@ -22,36 +22,36 @@
 
 ---
 
-## About
+## Про мене
 
-I build practical backend services in Go with PostgreSQL, REST APIs, concurrency, and external integrations.
+Створюю практичні backend-сервіси на Go: проєктую REST APIs, працюю з PostgreSQL, concurrency та зовнішніми інтеграціями.
 
-My projects focus on reliability: automated tests, explicit error handling, graceful shutdown, metrics, structured logging, and containerized environments.
+У проєктах роблю акцент на надійності: чітких transaction boundaries, явному error handling, automated tests, graceful shutdown, observability та відновленні після збоїв.
 
-I also bring eight years of digital marketing and SEO experience, which helps me connect technical decisions with real product needs.
+Маю вісім років досвіду в digital marketing та SEO, що допомагає мені пов’язувати технічні рішення з реальними потребами продукту.
 
-## Featured Projects
+## Основні проєкти
 
-| Project | Product | Engineering Highlights | Proof |
+| Проєкт | Продукт | Engineering Highlights | Де перевірити |
 |---|---|---|---|
-| **CryptoPulse Telegram Bot** | Live cryptocurrency notification bot | Durable inbox/outbox, versioned migrations, graceful shutdown, Testcontainers integration tests | [Live Bot](https://t.me/btc_eth_usdt_bot) · [Runbook](https://github.com/igor-zatochniy/cryptopulse-telegram-bot/blob/main/docs/operations.md) · [Repository](https://github.com/igor-zatochniy/cryptopulse-telegram-bot) |
-| **SEO Auditor** | Technical SEO audit service | Bounded worker pool, keyset pagination, RFC 9309 `robots.txt` handling, SSRF hardening | [Example Result](https://github.com/igor-zatochniy/seo-auditor/blob/main/docs/example-result.md) · [Repository](https://github.com/igor-zatochniy/seo-auditor) |
-| **Site Checker** | Website monitoring backend | Role-separated API/scheduler/workers, RabbitMQ DLQ and retries, transactional alert outbox, Kubernetes manifests with optional KEDA worker scaling | [OpenAPI](https://github.com/igor-zatochniy/site-checker/blob/main/api/openapi.yaml) · [Demo](https://github.com/igor-zatochniy/site-checker/blob/main/docs/demo.md) · [Repository](https://github.com/igor-zatochniy/site-checker) |
-| **Audiobook TTS Reader** | Windows audiobook reader | Streaming UTF-8 chunking, token-protected local REST/SSE API, coverage-guided fuzzing, validated progress recovery | [API](https://github.com/igor-zatochniy/tts-reader#local-rest-api) · [Fuzzing](https://github.com/igor-zatochniy/tts-reader#fuzzing) · [Repository](https://github.com/igor-zatochniy/tts-reader) |
+| **CryptoPulse Telegram Bot** | Telegram-бот для відстеження цін на криптовалюти й надсилання персональних сповіщень | Durable Telegram inbox · transactional reply outbox · leased/fenced delivery · graceful shutdown | [Live Bot](https://t.me/btc_eth_usdt_bot) · [Runbook](https://github.com/igor-zatochniy/cryptopulse-telegram-bot/blob/main/docs/operations.md) · [Repository](https://github.com/igor-zatochniy/cryptopulse-telegram-bot) |
+| **SEO Auditor** | Сервіс для паралельного технічного SEO-аудиту сторінок зі збереженням результатів у PostgreSQL | Bounded worker pool · PostgreSQL leases with `SKIP LOCKED` · SSRF hardening · graceful shutdown | [Example Result](https://github.com/igor-zatochniy/seo-auditor/blob/main/docs/example-result.md) · [Repository](https://github.com/igor-zatochniy/seo-auditor) |
+| **Site Checker** | Сервіс за розкладом перевіряє доступність сайтів, зберігає історію перевірок і створює сповіщення в разі збоїв | PostgreSQL job leases/fencing · RabbitMQ confirms/DLQ/retries · transactional alert outbox · Kubernetes manifests with optional KEDA worker scaling | [Interactive API Docs](https://igor-zatochniy.github.io/site-checker/) · [Demo](https://github.com/igor-zatochniy/site-checker/blob/main/docs/demo.md) · [Repository](https://github.com/igor-zatochniy/site-checker) |
+| **Audiobook TTS Reader** | Windows-застосунок для озвучення електронних книг із безпечним відновленням прогресу та локальним REST/SSE API | Streaming UTF-8 chunking · token-protected loopback REST/SSE API · coverage-guided fuzzing · validated progress recovery | [API](https://github.com/igor-zatochniy/tts-reader#local-rest-api) · [Fuzz Tests](https://github.com/igor-zatochniy/tts-reader/blob/main/chunk_reader_fuzz_test.go) · [Repository](https://github.com/igor-zatochniy/tts-reader) |
 
-## Core Skills
+## Ключові навички
 
-**Core Backend:** `Go` · `net/http` · `REST APIs` · `context.Context` · `Concurrency` · `PostgreSQL` · `SQL`
+**Backend:** `Go` · `net/http` · `REST APIs` · `context.Context` · `Concurrency` · `PostgreSQL` · `SQL`
 
-**Engineering Quality:** `Unit Testing` · `Integration Testing` · `Race Detector` · `Structured Logging` · `Graceful Shutdown`
+**Reliability & Quality:** `Unit Testing` · `Integration Testing` · `Race Detector` · `Error Handling` · `Structured Logging` · `Graceful Shutdown`
 
-## Technologies Used
+## Технології
 
-**Applied in Projects:** `RabbitMQ` · `Kubernetes` · `Prometheus` · `OpenAPI` · `Testcontainers` · `Fuzzing` · `GitHub Actions`
+**Applied in Projects:** `Docker` · `RabbitMQ` · `Kubernetes` · `KEDA` · `Prometheus` · `OpenAPI` · `Testcontainers` · `GitHub Actions`
 
-**Tools:** `Git` · `Docker` · `Linux` · `CLI`
+**Tools:** `Git` · `Linux` · `CLI`
 
-## Contacts
+## Контакти
 
 - Portfolio: [igor-zatochniy.github.io/portfolio](https://igor-zatochniy.github.io/portfolio/)
 - Telegram: [@zatochniy](https://t.me/zatochniy)
@@ -61,6 +61,6 @@ I also bring eight years of digital marketing and SEO experience, which helps me
 
 <div align="center">
 
-Open to remote opportunities as a **Junior Go Backend Developer**.
+Розглядаю пропозиції віддаленої роботи на посаді **Junior Go Backend Developer**.
 
 </div>
